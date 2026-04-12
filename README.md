@@ -1,9 +1,11 @@
 # Bank-Churn-EDA
 
 🔍 Overview
+
 This project explores customer churn behavior in a banking dataset using exploratory data analysis (EDA). The goal is to identify key factors influencing churn and highlight high-risk customer segments to support data-driven retention strategies.
 
 **Dataset:**
+
 Total Customers: 10,000
 
 Churn Rate: ~20% (moderately imbalanced)
@@ -11,6 +13,7 @@ Churn Rate: ~20% (moderately imbalanced)
 Features include demographics, financial data, and customer behavior
 
 **Key Analysis Performed:**
+
 a.Churn distribution & class imbalance analysis
 
 b.Demographic insights (Age, Gender, Geography)
@@ -24,6 +27,7 @@ e.Product usage patterns (Number of Products)
 f.Tenure impact evaluation
 
 **Key Insights:**
+
 a.Engagement is the strongest driver — inactive customers churn significantly more
 
 b.Geography matters — highest churn observed in Germany
@@ -40,12 +44,13 @@ Inactive, middle-aged customers from high-churn regions with mid-range credit sc
 
 💡 **Conclusion:**
 
+
 Churn is primarily influenced by customer engagement and experience rather than tenure. Targeted strategies focusing on high-risk segments and improving customer interaction can significantly enhance retention.
 
 **Tools Used:**
 
 1. Python (Pandas, Matplotlib, Seaborn)
-2. 
+
 3. Jupyter Notebook
 
 **Outcome:**
