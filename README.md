@@ -14,29 +14,29 @@ Features include demographics, financial data, and customer behavior
 
 **Key Analysis Performed:**
 
-a.Churn distribution & class imbalance analysis
+a. Churn distribution & class imbalance analysis
 
-b.Demographic insights (Age, Gender, Geography)
+b. Demographic insights (Age, Gender, Geography)
 
-c.Financial behavior analysis (Balance, Credit Score)
+c. Financial behavior analysis (Balance, Credit Score)
 
-d.Customer engagement analysis (Active Membership)
+d. Customer engagement analysis (Active Membership)
 
-e.Product usage patterns (Number of Products)
+e. Product usage patterns (Number of Products)
 
-f.Tenure impact evaluation
+f. Tenure impact evaluation
 
 🌟 **Key Insights:**
 
-a.Engagement is the strongest driver — inactive customers churn significantly more
+a. Engagement is the strongest driver — inactive customers churn significantly more
 
-b.Geography matters — highest churn observed in Germany
+b. Geography matters — highest churn observed in Germany
 
-c.Mid-range credit score & higher balance customers show higher churn risk
+c. Mid-range credit score & higher balance customers show higher churn risk
 
-d.Optimal product usage reduces churn — both low and excessive product holding increase risk
+d. Optimal product usage reduces churn — both low and excessive product holding increase risk
 
-e.Tenure has minimal impact, indicating retention is driven by experience, not duration
+e. Tenure has minimal impact, indicating retention is driven by experience, not duration
 
 **High-Risk Customer Profile:**
 
@@ -51,7 +51,7 @@ Churn is primarily influenced by customer engagement and experience rather than 
 
 1. Python (Pandas, Matplotlib, Seaborn)
 
-3. Jupyter Notebook
+2. Jupyter Notebook
 
 🚀**Outcome:**
 
