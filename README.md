@@ -52,6 +52,8 @@ Churn is primarily influenced by customer engagement and experience rather than 
 1. Python (Pandas, Matplotlib, Seaborn)
 
 2. Jupyter Notebook
+ 
+3. Power BI (Dax , Power Query) 
 
 🚀**Outcome:**
 
